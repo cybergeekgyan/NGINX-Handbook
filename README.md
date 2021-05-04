@@ -1,9 +1,9 @@
 # NGINX-Handbook
 
 ## Prerequisites
-Familiarity with the Linux terminal and common Unix programs such as ls, cat, ps, grep, find, nproc, ulimit and nano.<br>
-A computer powerful enough to run a virtual machine or a $5 virtual private server.<br>
-Understanding of web applications and a programming language such as JavaScript or PHP.<br>
+ * Familiarity with the Linux terminal and common Unix programs such as ls, cat, ps, grep, find, nproc, ulimit and nano.<br>
+ * A computer powerful enough to run a virtual machine or a $5 virtual private server.<br>
+ * Understanding of web applications and a programming language such as JavaScript or PHP.<br>
 
 ## TABLE OF CONTENTS
 
